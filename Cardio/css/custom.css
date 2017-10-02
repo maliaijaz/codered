@@ -1,0 +1,30 @@
+img#navbar-logo-styles{
+	width: 50px;
+	height: 42px;
+}
+
+img#preloader-image-styles {
+	width: 75px;
+	height: 62px;
+}
+
+a.btn.btn-blue.donate-button-styles {
+	background-color: #B81E2C;
+}
+a:hover {
+	color: blue;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.about-text-indent {
+	text-indent: 50px;
+}
+/*
+ {
+	background-color: #D80027;
+
+}*/
+
